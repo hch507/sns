@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.1515" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_find_id.xml" value="0.27804107666015626" />
+        <entry key="app/src/main/res/layout/activity_find_password.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_input_number.xml" value="0.10625" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.10793914794921876" />
         <entry key="app/src/main/res/layout/activity_login1.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
       </map>

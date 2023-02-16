@@ -9,4 +9,5 @@ class ViewModel : ViewModel() {
 
     var login = MutableLiveData(false)
     var findId = MutableLiveData(false)
+    var findPw = MutableLiveData(false)
 }
